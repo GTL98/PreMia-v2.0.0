@@ -1,0 +1,114 @@
+{
+	"QMainWindow": [
+		{
+			"tittle": "PreMia",
+			"icon": ":/logo/logo png.png",
+			"frameless": true,
+			"shadow": [
+				{
+					"color": "#fff",
+					"blurRadius": 20,
+					"xOffset": 0,
+					"yOffset": 0,
+					"centralWidget": "centralwidget"
+				}
+			],
+			"navigation": [
+				{
+					"minimize": "botao_minimizar",
+					"close": "botao_fechar",
+					"restore": [
+						{
+							"buttonName": "botao_tamanho_tela",
+							"normalIcon": ":/icones/icones/png/maximizar_png.png",
+							"maximizedIcon": ":/icones/icones/png/minimizar_png.png"
+						}
+					],
+					"moveWindow": "frame_cabecalho",
+					"tittleBar": "frame_cabecalho"
+				}
+			]
+		}
+	],
+
+	"QStackedWidget":[
+		{
+			"name":"stackedWidget",
+			"transitionAnimation":[
+				{
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "horizontal",
+							"easingCurve": "Linear"
+						}
+					]
+				}
+			],
+			"navigation":[
+				{
+					"navigationButtons": [
+						{
+							"botao_alimentar_banco_dados": "pagina_alimentar_banco_dados",
+							"botao_acessar_banco_dados": "pagina_acessar_banco_dados",
+							"botao_informacoes_estatisticas": "pagina_informacoes",
+							"botao_media_glicemia": "pagina_grafico_media_glicemia",
+							"botao_desvio_padrao_glicemia": "pagina_grafico_desvio_padrao_glicemia",
+							"botao_variabilidade_glicemia": "pagina_grafico_variabilidade_glicemia",
+							"botao_massa_glicose": "pagina_grafico_massa_glicose",
+							"botao_media_pressao": "pagina_grafico_media_pressao",
+							"botao_desvio_padrao_pressao": "pagina_grafico_desvio_padrao_pressao",
+							"botao_variabilidade_pressao": "pagina_grafico_variabilidade_pressao",
+							"botao_media_bpm": "pagina_grafico_media_bpm",
+							"botao_desvio_padrao_bpm": "pagina_grafico_desvio_padrao_bpm",
+							"botao_variabilidade_bpm": "pagina_grafico_variabilidade_bpm"
+						}
+					]
+				}
+			]
+
+		}
+	],
+
+	"QCustomSlideMenu": [
+		{
+			"name": "frame_menu",
+			"defaultSize": [
+				{
+					"width": 0,
+					"height": "parent"
+				}
+			],
+			"collapsedSize": [
+				{
+					"width": 0,
+					"height": "parent"
+				}
+			],
+			"expandedSize": [
+				{
+					"width": 200,
+					"height": "parent"
+				}
+			],
+			"toggleButton": [
+				{
+					"buttonName": "botao_menu",
+					"icons": [
+						{
+							"whenMenuIsCollapsed": ":/icones/icones/png/menu_centro_png.png",
+							"whenMenuIsExpanded": ":/icones/icones/png/menu_volta.png"
+						}
+					]
+				}
+			],
+			"menuTransitionAnimation": [
+				{
+					"animationDuration": 500,
+					"animationEasingCurve": "Linear"
+				}
+			]
+		}
+	]
+}
