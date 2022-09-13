@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="#FF5722"
+   stroke-width="2.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="feather feather-x"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="graficos_linha.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="4.3203125"
+     inkscape:cx="25.409877"
+     inkscape:cy="31.244215"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="g921"
+     transform="translate(-1.75,1.7321969)"
+     inkscape:export-filename="D:\Usuario\Desktop\Python\PreMia v2.0.0\PreMia\interface_grafica\interface_ui\icones\png\grafico_linha_png.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <circle
+       id="circle904"
+       r="3"
+       cy="18"
+       cx="18"
+       style="stroke:#000000;stroke-opacity:1" />
+    <circle
+       id="circle906"
+       r="3"
+       cy="6"
+       cx="6"
+       style="stroke:#000000;stroke-opacity:1" />
+    <path
+       id="path908"
+       d="M 6,21 V 9 a 9,9 0 0 0 9,9"
+       inkscape:connector-curvature="0"
+       style="stroke:#000000;stroke-opacity:1" />
+  </g>
+</svg>

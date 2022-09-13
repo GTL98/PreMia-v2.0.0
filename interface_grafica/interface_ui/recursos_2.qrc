@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo png.png</file>
+  </qresource>
+  <qresource prefix="icones">
+    <file>icones/png/info_png.png</file>
+    <file>icones/png/desbloquear_png.png</file>
+    <file>icones/png/excluir_png.png</file>
+    <file>icones/png/menu_volta.png</file>
+    <file>icones/png/salvar_png.png</file>
+    <file>icones/png/enviar_png.png</file>
+    <file>icones/png/criar_doc_png.png</file>
+    <file>icones/png/banco_dados_png.png</file>
+    <file>icones/png/grafico_linha_png.png</file>
+    <file>icones/png/maximizar_png.png</file>
+    <file>icones/png/menos_png.png</file>
+    <file>icones/png/menu_centro_png.png</file>
+    <file>icones/png/minimizar_png.png</file>
+    <file>icones/png/pasta_png.png</file>
+    <file>icones/png/x_png.png</file>
+  </qresource>
+</RCC>
